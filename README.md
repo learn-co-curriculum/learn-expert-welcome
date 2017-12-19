@@ -12,6 +12,8 @@ And then there are questions where you'll flex your teaching skills. Our curricu
 
 Along with this track, there is a [reference guide](https://github.com/flatiron-labs/learn-support) that you will be using a lot when you're working as a Technical Coach. We don't expect you to memorize the info, but, if there are questions or issues that you're not sure about (especially technical and platform-related issues), check the reference guide as the answers will most likely be there. 
 
+Testing.
+
 ## Resources
 
 * [Learn Support Reference Guide](https://github.com/flatiron-labs/learn-support) 
