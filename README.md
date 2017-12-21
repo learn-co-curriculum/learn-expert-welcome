@@ -15,9 +15,7 @@ As a Technical Coach, you'll be fielding a variety of questions from students as
 
 And then there are questions where you'll flex your teaching skills. Our curriculum is rigorous and we expect students to get stuck and feel challenged. They should google and try different things, and when they need help right away after they've looked at a problem for way too long that's where you — the Technical Coach — come in. You'll employ a variety of teaching strategies that help the student figure out solutions and come to a better understanding of concepts on their own.
 
-Along with this track, there is a [reference guide](https://github.com/flatiron-labs/learn-support) that you will be using a lot when you're working as a Technical Coach. We don't expect you to memorize the info, but, if there are questions or issues that you're not sure about (especially technical and platform-related issues), check the reference guide as the answers will most likely be there. 
-
-Testing.
+Along with this track, there is a [reference guide](https://github.com/flatiron-labs/learn-support) that you will be using a lot when you're working as a Technical Coach. We don't expect you to memorize the info, but, if there are questions or issues that you're not sure about (especially technical and platform-related issues), check the reference guide as the answers will most likely be there.
 
 ## Resources
 
