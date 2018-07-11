@@ -2,6 +2,8 @@
 
 ![welcome](http://i.giphy.com/dzaUX7CAG0Ihi.gif "welcome")
 
+Hello World!
+
 We're so excited to have you join our team as a Technical Coach and help our students learn to code. It's a great opportunity to improve your technical, troubleshooting, and communication skills by working with students and figuring out how to solve the issues they're encountering. 
 
 This guide will cover all the logistical details of the job as well as provide you with the communication, debugging, and pedagogical training you need to be an effective Coach. This guide also has quizzes along the way to help you better retain the information that you've read. 
